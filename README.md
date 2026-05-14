@@ -14,7 +14,7 @@
 
 # 🌸 About Me
 
-<img align="right" height="230" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" height="230" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
 🎓 **B.Tech Information Technology (2027)**
 💻 Passionate about **Java Full Stack Development**
