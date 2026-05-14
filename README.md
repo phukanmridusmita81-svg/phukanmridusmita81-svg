@@ -115,14 +115,6 @@ Projects include:
 
 ---
 
-# 🎮 Pacman Contribution Game
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/master/pacman-contribution-graph.svg"/>
-</p>
-
----
-
 # 💻 Developer Life
 
 ```java
