@@ -16,11 +16,6 @@
 
 <img align="right" height="230" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
-<p align="left">
-  🐱 Cat companion  
-  🐶 Dog companion
-</p>
-
 🎓 **B.Tech Information Technology (2027)**
 💻 Passionate about **Java Full Stack Development**
 ⚡ Learning **Spring Boot, React & Microservices**
