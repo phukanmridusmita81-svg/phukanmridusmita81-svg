@@ -16,6 +16,9 @@
 
 <img align="right" height="230" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
 
+<img height="80" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"/>
+<img height="80" src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif"/>
+
 🎓 **B.Tech Information Technology (2027)**
 💻 Passionate about **Java Full Stack Development**
 ⚡ Learning **Spring Boot, React & Microservices**
